@@ -1,0 +1,4 @@
+; hood gun cam + replay
+[autoload]
+GunCam="*user://mods/hood_gun_cam.gd"
+Replay="*user://mods/hood_replay.gd"
